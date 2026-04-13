@@ -1,4 +1,4 @@
-## To use the Game Port/DB15 Schematic Symbol in KiCad:
+# To use the Game Port/DB15 Schematic Symbol in KiCad:
 ## Step 1. Download "Game_Port_Connector.kicad_sym"
 This is a KiCad Schematic Symbol Library.
 
